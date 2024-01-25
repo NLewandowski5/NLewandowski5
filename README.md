@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm currently studying Management Information Systems at Northwest Missouri State University.
-I'm currently learning python, java, html, and css.
+I'm currently studying Management Information Systems at Northwest Missouri State University.<br>
+I'm currently learning python, java, html, and css.<br>
 I'm graduating this spring and hope to find to find a useful role.
 
 You can regularly find me at a computer or at the gym, and I will always have music playing.
